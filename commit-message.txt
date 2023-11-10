@@ -1,1 +1,3 @@
-Ngày:  | Nội Dung: fix ci/cd,ui
+Nội Dung cập nhật: Fix gửi tin nhắn group, lỗi gửi hình, chuyển chọn danh sách không cần gửi thành cần gửi, cập nhật ui 
+
+Develop
