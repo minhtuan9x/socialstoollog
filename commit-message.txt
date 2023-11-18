@@ -1,3 +1,7 @@
-Nội Dung cập nhật: Merge pull request #5
+Nội Dung cập nhật: Cập nhập sửa lỗi 18/11
 
-Cập nhật UI.
+Sửa kết bạn không nhập tin nhắn bị lỗi.
+Sửa nhắn tin danh bạ lỗi.
+Sửa kết bạn excel lỗi.
+Sửa chọn files lỗi.
+Cập nhập bỏ chọn nhiều người gửi bằng phím shift.
