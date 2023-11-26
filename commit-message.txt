@@ -1,7 +1,5 @@
-Nội Dung cập nhật: Cập nhập sửa lỗi 18/11
+Nội Dung cập nhật: Cập nhật 26/11
 
-Sửa kết bạn không nhập tin nhắn bị lỗi.
-Sửa nhắn tin danh bạ lỗi.
-Sửa kết bạn excel lỗi.
-Sửa chọn files lỗi.
-Cập nhập bỏ chọn nhiều người gửi bằng phím shift.
+1. Thêm tính năng mới: quản lý toàn bộ tài khoản.
+2. Fix lỗi check no login.
+3 .Fix lỗi đóng chrome chính.
