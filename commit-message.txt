@@ -1,4 +1,1 @@
-Nội Dung cập nhật: Cập nhât 27/11
-
-1. Gửi với emoji
-         Note: Có thể lấy emoji từ app or copy từ tin nhắn ngoài
+Nội Dung cập nhật: fix bug
