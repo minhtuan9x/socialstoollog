@@ -1,1 +1,3 @@
-Nội Dung cập nhật: fix bug
+Nội Dung cập nhật: Fix bug
+
+Small bugs in fetch all chrome, download ui.
