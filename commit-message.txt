@@ -1,5 +1,4 @@
-Nội Dung cập nhật: Cập nhật 26/11
+Nội Dung cập nhật: Cập nhât 27/11
 
-1. Thêm tính năng mới: quản lý toàn bộ tài khoản.
-2. Fix lỗi check no login.
-3 .Fix lỗi đóng chrome chính.
+1. Gửi với emoji
+         Note: Có thể lấy emoji từ app or copy từ tin nhắn ngoài
