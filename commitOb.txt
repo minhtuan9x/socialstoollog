@@ -1,1 +1,3 @@
-Nội Dung cập nhật: change nhe 21313
+Nội Dung cập nhật: update 3/12
+
+Multiple thread
