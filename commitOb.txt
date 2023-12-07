@@ -1,3 +1,1 @@
-Nội Dung cập nhật: update 3/12
-
-Multiple thread
+Nội Dung cập nhật: Fix buggggg...
