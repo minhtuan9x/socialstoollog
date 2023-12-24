@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Check proxy is alive
+Nội Dung cập nhật: Update proxy, data .json instead of .bin
