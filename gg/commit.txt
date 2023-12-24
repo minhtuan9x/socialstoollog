@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Proxy feature
+Nội Dung cập nhật: Check proxy is alive
