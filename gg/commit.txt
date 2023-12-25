@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Update proxy, data .json instead of .bin
+Nội Dung cập nhật: Refactoring packages.
