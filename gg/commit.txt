@@ -1,1 +1,4 @@
-Nội Dung cập nhật: Hot fix 2
+Nội Dung cập nhật: Big Update 1/1/2024
+
+Chuyển toàn bộ giao thức qua api.
+Có thể nhắn tin với thành viên ẩn trong nhóm.
