@@ -1,4 +1,1 @@
-Nội Dung cập nhật: Big Update 1/1/2024
-
-Chuyển toàn bộ giao thức qua api.
-Có thể nhắn tin với thành viên ẩn trong nhóm.
+Nội Dung cập nhật: update adding proxy for okhttp
