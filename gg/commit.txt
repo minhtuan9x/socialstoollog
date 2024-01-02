@@ -1,1 +1,1 @@
-Nội Dung cập nhật: update adding proxy for okhttp
+Nội Dung cập nhật: Enhance logs for Rest client.
