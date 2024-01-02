@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Enhance logs for Rest client.
+Nội Dung cập nhật: Update to fix get all gr member
