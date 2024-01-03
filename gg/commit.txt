@@ -1,1 +1,3 @@
-Nội Dung cập nhật: Update to fix get all gr member
+Nội Dung cập nhật: Merge pull request #17 from minhtuan9x/develop
+
+Develop
