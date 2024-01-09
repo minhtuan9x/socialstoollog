@@ -1,3 +1,1 @@
-Nội Dung cập nhật: Merge pull request #18 from minhtuan9x/dev2
-
-Dev2
+Nội Dung cập nhật: update
