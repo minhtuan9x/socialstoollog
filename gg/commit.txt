@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Long Customer
+Nội Dung cập nhật: Label danh bạ, fix buttons, check expiration.
