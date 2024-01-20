@@ -1,1 +1,1 @@
-Nội Dung cập nhật: update check sdt 3
+Nội Dung cập nhật: Fix gui tn sdt
