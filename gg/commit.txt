@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Fix gui tn sdt
+Nội Dung cập nhật: Chức năng mới mời vào nhóm
