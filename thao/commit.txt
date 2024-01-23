@@ -1,3 +1,1 @@
-Nội Dung cập nhật: Merge pull request #20 from minhtuan9x/develop
-
-Update to use CID
+Nội Dung cập nhật: Update to add slepping times when inviting the members to the gr.
