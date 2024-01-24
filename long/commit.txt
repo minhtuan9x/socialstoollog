@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Update to add slepping times when inviting the members to the gr.
+Nội Dung cập nhật: Check profile is active
