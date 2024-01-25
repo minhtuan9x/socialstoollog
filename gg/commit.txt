@@ -1,1 +1,1 @@
-Nội Dung cập nhật: avoid error jdk
+Nội Dung cập nhật: scale trayIcon.
