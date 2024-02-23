@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Split tin nhắn
+Nội Dung cập nhật: Commented out check 50 invitation
