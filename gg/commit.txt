@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Gửi hình nhóm - v3 Hot fix bug.
+Nội Dung cập nhật: update api version
