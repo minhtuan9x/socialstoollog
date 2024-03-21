@@ -1,1 +1,2 @@
-Nội Dung cập nhật: update to keep alive
+Nội Dung cập nhật: Gửi hình nhóm.
+Hot fix bug.
