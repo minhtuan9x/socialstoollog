@@ -1,1 +1,3 @@
-Nội Dung cập nhật: enhance check sdt
+Nội Dung cập nhật: update obfuscation, mac identifier
+
+update obfuscation, mac identifier
