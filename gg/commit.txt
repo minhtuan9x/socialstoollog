@@ -1,1 +1,1 @@
-Nội Dung cập nhật: turn off random sleeping times
+Nội Dung cập nhật: Random imei, retry if block sending sdt temporarily, sending invitation v1 instead of v2.
