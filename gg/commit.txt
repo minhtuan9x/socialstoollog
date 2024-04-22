@@ -1,1 +1,1 @@
-Nội Dung cập nhật: fix login
+Nội Dung cập nhật: update obfuscation
