@@ -1,1 +1,21 @@
-Nội Dung cập nhật: update url
+Nội Dung cập nhật: Master(#30)
+
+* Update licence login.
+
+* update
+
+* exe update
+
+* add AI
+
+* add AI
+
+* add AI
+
+* Big Update
+
+* updated action
+
+---------
+
+Co-authored-by: dmtuan2 <0mtmtmt@gmail.com>
