@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Update proxy checker
+Nội Dung cập nhật: Update ZaloRestClientImpl.java
