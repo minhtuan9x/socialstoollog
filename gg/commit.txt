@@ -1,1 +1,3 @@
-Nội Dung cập nhật: update
+Nội Dung cập nhật: Revert update.
+
+This reverts commit 04e9d69cb96da8f306edbe8acf796d504f79fdd8.
