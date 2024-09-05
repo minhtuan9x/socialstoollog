@@ -1,5 +1,1 @@
-Nội Dung cập nhật: Cập nhập 5/9
-
-* update check số úc
-* cache khi check số
-* đăng nhập bằng cookie
+Nội Dung cập nhật: update
