@@ -1,1 +1,1 @@
-Nội Dung cập nhật: nt nhóm v2.
+Nội Dung cập nhật: Update mavenObfuscatorGG.yml
