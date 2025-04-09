@@ -1,1 +1,1 @@
-Nội Dung cập nhật: chore: autopublish 2025-04-09T07:21:38Z
+Nội Dung cập nhật: Fix join nhóm.
