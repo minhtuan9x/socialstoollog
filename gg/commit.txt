@@ -1,1 +1,1 @@
-Nội Dung cập nhật: update trial
+Nội Dung cập nhật: Fix join nhóm.
