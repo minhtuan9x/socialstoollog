@@ -1,1 +1,9 @@
-Nội Dung cập nhật: update copy QR
+Nội Dung cập nhật: webhook (#33)
+
+* add repo
+
+* QR hook
+
+---------
+
+Co-authored-by: dmtuan2 <0mtmtmt@gmail.com>
