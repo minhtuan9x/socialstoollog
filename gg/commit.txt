@@ -1,1 +1,1 @@
-Nội Dung cập nhật: Fix Nhắn tin nhóm v1
+Nội Dung cập nhật: Fix bug
